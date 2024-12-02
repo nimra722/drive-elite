@@ -1,0 +1,108 @@
+styles.css
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    
+    
+  }
+
+  
+  
+  .header {
+    
+    background: #7ac3c9;
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+    
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #000000;
+    background: #7ac3c9;
+    font-size: larger;
+  }
+  .car{
+    font-size: large;
+  }
+
+  
+  .navbar a {
+    margin:  10px;
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  .navbar .btn {
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
+  .hero {
+    text-align: center;
+    background: #dbd3d3;
+    color: #003cff;
+    padding: 50px 0;
+  }
+  
+  .how, .offer {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .tabs .tab {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #7ac3c9;
+    cursor: pointer;
+  }
+  
+  .steps .step {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #7ac3c9;
+  }
+.step{
+  
+  background-color: #7ac3c9;
+
+}
+  
+  .services .service {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #1ae62b;
+  }
+  
+  .footer {
+    background: #dbd3d3;
+    color: #4df300;
+    padding: 20px 0;
+  }
+  
+  .quick-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .quick-links ul li a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .subscribe-form input, .subscribe-form button {
+    margin: 5px;
+    padding: 10px;
+  }
+  .service{
+    color: #000000;
+    background-color: #ffffff;
+  }
+  
+ 
